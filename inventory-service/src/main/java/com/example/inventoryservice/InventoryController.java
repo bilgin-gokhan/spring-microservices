@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @RestController
-public class ProductController {
+public class InventoryController {
 
     List<Inventory> inventoryList = new ArrayList<Inventory>();
 
